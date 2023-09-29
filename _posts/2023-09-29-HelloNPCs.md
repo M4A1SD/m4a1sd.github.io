@@ -1,6 +1,6 @@
 ---
 title:
-date: 2023-09-29 12:00:00 -500
+date: 2023-09-29 12:00:00 +0200
 catergorie: [filming]
 tags: [nikon,documentry, history, gopro]
 
